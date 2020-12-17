@@ -1,0 +1,30 @@
+{
+	"plugins":[
+	    "code",
+	    "copy-code-button",
+	    "-lunr", "-search", "search-pro",
+	    "chapter-fold",
+	    "mathjax-pro",
+	    "-sharing",
+	    "github",
+	    "chart",
+	    "todo",
+	    "graph",
+	    "puml",
+	    "ace",
+	    "mermaid-gb3",
+	    "include-csv",
+	    "flexible-alerts",
+	    "anchor-navigation-ex",
+	    "theme-comscore"
+	],
+	"pluginsConfig": {
+    	"anchor-navigation-ex": {
+	    "showLevel": false,
+	    "showGoTop": true
+	    },
+	    "github": {
+      		"url": "http://learning.ren"
+    	}
+	}
+}
