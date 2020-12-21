@@ -8,4 +8,5 @@
     * [字典树](algorithm/字典树.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
+    * [囚徒困境](funnyScience/prisoner.md)
 
