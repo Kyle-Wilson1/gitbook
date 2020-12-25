@@ -26,7 +26,7 @@
 我用了一张普通的A4纸进行对折，最终只对折了7次。  
 因为纸张自身的拉力，已经无法再进行对折。  
 如下图：
-<div align=center><img src="img-paper/paper.jpg" style="height: 300px;"></div>
+<div align=center><img src="img-paper/paper.jpg" style="max-height: 300px;"></div>
 
 ### 3.世界记录
 地球到月球为38万公里，地球到太阳为1.5亿公里。  
@@ -44,5 +44,5 @@
 
 ---
 **扫描下方二维码关注公众号，第一时间获取更新信息！**  
-<div align=center><img src="../qrcode.jpg" style="height: 300px;"></div>
+<div align=center><img src="../qrcode.jpg" style="max-height: 300px;"></div>
 
