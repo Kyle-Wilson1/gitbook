@@ -12,4 +12,5 @@
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
     * [智商140以下慎点](funnyScience/intelligence.md)
+    * [你永远也追不上乌龟？](funnyScience/乌龟.md)
 
