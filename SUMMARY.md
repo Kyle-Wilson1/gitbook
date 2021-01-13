@@ -9,7 +9,7 @@
     * [字典树](algorithm/字典树.md)
     * [取石子游戏，用博弈论教你如何必胜](algorithm/取石子游戏.md)
     * [通过6人介绍可以认识世界上任何一个人？](algorithm/并查集.md)
-    * [排队的烦恼](algorithm/康托展开.md)
+    * [马老师的烦恼](algorithm/康托展开.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
