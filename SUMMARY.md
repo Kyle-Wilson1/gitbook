@@ -17,4 +17,5 @@
     * [智商140以下慎点](funnyScience/intelligence.md)
     * [你永远也追不上乌龟？](funnyScience/乌龟.md)
     * [历史穿越也有科学依据，你信吗？](funnyScience/时间可变.md)
+    * [老鼠与毒药](funnyScience/老鼠与毒药.md)
 
