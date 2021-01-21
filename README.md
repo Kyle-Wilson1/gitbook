@@ -25,4 +25,4 @@
 
 ---  
 **扫描下方二维码关注公众号，第一时间获取更新信息！**  
-<div align=center><img src="qrcode1.jpg" style="height: 300px;"></div>
+<div align=center><img src="qrcode.jpg" style="height: 300px;"></div>
