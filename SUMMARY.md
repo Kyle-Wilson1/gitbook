@@ -12,6 +12,7 @@
     * [马老师的烦恼](algorithm/康托展开.md)
     * [经典逻辑面试题，高楼扔鸡蛋](algorithm/高楼鸡蛋.md)
     * [蚂蚁走迷宫](algorithm/蚂蚁走迷宫.md)
+    * [递推的思维构建与技巧实现](algorithm/递推.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
