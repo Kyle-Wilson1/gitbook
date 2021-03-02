@@ -14,6 +14,7 @@
     * [蚂蚁走迷宫](algorithm/蚂蚁走迷宫.md)
     * [递推的思维构建与技巧实现](algorithm/递推.md)
     * [图论入门](algorithm/图论.md)
+    * [单身男女问题的科学解决方案](algorithm/二分图匹配.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
