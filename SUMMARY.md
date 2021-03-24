@@ -4,6 +4,7 @@
 * [数学](math/README.md)
     * [映射与函数](math/映射与函数.md)
     * [0.9循环等于1吗？](math/0.9equal1.md)
+    * [勾股定理竟然有500种证明方法，你会几种？](math/勾股定理.md)
 * [算法](algorithm/README.md)
     * [递推优化-矩阵幂乘](algorithm/递推优化-矩阵幂乘.md)
     * [字典树](algorithm/字典树.md)
@@ -24,4 +25,7 @@
     * [历史穿越也有科学依据，你信吗？](funnyScience/时间可变.md)
     * [老鼠与毒药](funnyScience/老鼠与毒药.md)
     * [五道逻辑思维面试题](funnyScience/逻辑思维.md)
+    * [论数学在撩妹中的重要性](funnyScience/撩妹.md)
+    * [聊一聊王者荣耀中的数学应用，教你科学上王者](funnyScience/王者.md)
+    * [3人分金币，人生大道理](funnyScience/分金币.md)
 
