@@ -17,6 +17,8 @@
     * [图论入门](algorithm/图论.md)
     * [单身男女问题的科学解决方案](algorithm/二分图匹配.md)
     * [村网通工程](algorithm/最小生成树.md)
+    * [搜索二维矩阵](algorithm/搜索二维矩阵.md)
+    * [如何设计王者荣耀的匹配算法？](algorithm/2021/4/王者.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
@@ -26,6 +28,8 @@
     * [老鼠与毒药](funnyScience/老鼠与毒药.md)
     * [五道逻辑思维面试题](funnyScience/逻辑思维.md)
     * [论数学在撩妹中的重要性](funnyScience/撩妹.md)
-    * [聊一聊王者荣耀中的数学应用，教你科学上王者](funnyScience/王者.md)
     * [3人分金币，人生大道理](funnyScience/分金币.md)
+* [逻辑思维](logic/README.md)
+    * [一道充满歧义的思维题，引发对生活的思考](logic/2021/4/运水.md)
+    * [140克盐如何3次分成50克、90克？](logic/2021/4/分盐.md)
 
