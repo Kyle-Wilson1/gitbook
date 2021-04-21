@@ -19,6 +19,7 @@
     * [村网通工程](algorithm/最小生成树.md)
     * [搜索二维矩阵](algorithm/搜索二维矩阵.md)
     * [如何设计王者荣耀的匹配算法？](algorithm/2021/4/王者.md)
+    * [堆排序算法详解](algorithm/2021/4/堆排序.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
@@ -32,4 +33,6 @@
 * [逻辑思维](logic/README.md)
     * [一道充满歧义的思维题，引发对生活的思考](logic/2021/4/运水.md)
     * [140克盐如何3次分成50克、90克？](logic/2021/4/分盐.md)
+    * [腾讯面试题：64匹马，8赛道，找出最快的4匹最少要几次](logic/2021/4/64匹马.md)
+    * [逻辑面试题：传遍全网的错误分析](logic/2021/4/错题.md)
 
