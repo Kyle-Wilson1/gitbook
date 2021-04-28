@@ -24,5 +24,5 @@
   ```
 
 ---  
-**扫描下方二维码关注公众号，第一时间获取更新信息！**  
+**扫描下方二维码，关注公众号【小K算法】，第一时间获取更新信息！**  
 <div align=center><img src="qrcode.gif" style="height: 300px;"></div>
