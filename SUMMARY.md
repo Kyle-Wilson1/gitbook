@@ -20,6 +20,8 @@
     * [搜索二维矩阵](algorithm/搜索二维矩阵.md)
     * [如何设计王者荣耀的匹配算法？](algorithm/2021/4/王者.md)
     * [堆排序算法详解](algorithm/2021/4/堆排序.md)
+    * [算法：冒泡排序及优化](algorithm/2021/5/冒泡排序.md)
+    * [算法面试题：均分纸牌](algorithm/2021/5/纸牌.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
@@ -40,4 +42,6 @@
     * [智力面试题：小明一家人过桥](logic/2021/4/过桥.md)
     * [逻辑面试题：1+1=2的复杂打开方式](logic/2021/5/数字游戏.md)
     * [逻辑面试题：猴子搬香蕉](logic/2021/5/猴子搬香蕉.md)
+* [博弈论](game/README.md)
+    * [巴什博弈：取石子游戏](game/2021/5/巴什博弈.md)
 
