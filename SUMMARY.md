@@ -33,6 +33,7 @@
     * [五道逻辑思维面试题](funnyScience/逻辑思维.md)
     * [论数学在撩妹中的重要性](funnyScience/撩妹.md)
     * [3人分金币，人生大道理](funnyScience/分金币.md)
+    * [飞机飞过为啥会留下两条白线？](funnyScience/2021/6/飞机.md)
 * [逻辑思维](logic/README.md)
     * [一道充满歧义的思维题，引发对生活的思考](logic/2021/4/运水.md)
     * [140克盐如何3次分成50克、90克？](logic/2021/4/分盐.md)
