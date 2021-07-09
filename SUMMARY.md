@@ -23,6 +23,7 @@
     * [算法：冒泡排序及优化](algorithm/2021/5/冒泡排序.md)
     * [算法面试题：均分纸牌](algorithm/2021/5/纸牌.md)
     * [算法：图解LIS问题及优化](algorithm/2021/5/LIS.md)
+    * [算法面试题：放苹果](algorithm/2021/7/放苹果.md)
 * [趣味科学](funnyScience/README.md)
     * [一张A4纸对折不了8次？](funnyScience/paper.md)
     * [囚徒困境](funnyScience/prisoner.md)
